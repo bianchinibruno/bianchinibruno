@@ -21,6 +21,7 @@ Sou **Bruno Bianchini**, **Senior Quality Assurance Engineer** com foco em autom
 | -------------------- | ------------ |
 | **Automação Frontend** | Cypress, Selenium, Playwright |
 | **Automação API**      | Postman, RestAssured |
+| **Linguagens**         | JavaScript, TypeScript, Java, Python |
 | **Performance**        | JMeter, K6 |
 | **CI/CD**              | GitHub Actions, Azure DevOps |
 | **BDD**                | Cucumber, Gherkin |
@@ -41,8 +42,6 @@ Sou **Bruno Bianchini**, **Senior Quality Assurance Engineer** com foco em autom
 - **[Load Test com K6](#)**  
   - Simulação de carga de usuários reais.
   - Métricas exportadas para Grafana.
-
-(*Links são ilustrativos — substitua pelos repositórios reais!*)
 
 ---
 
@@ -65,26 +64,8 @@ Sou **Bruno Bianchini**, **Senior Quality Assurance Engineer** com foco em autom
 
 ---
 
-## 🤝 Como Colaborar
-
-Se quiser contribuir com meus repositórios ou discutir novas abordagens de QA, é só abrir uma **Issue** ou me enviar um **Pull Request**.  
-Estou sempre aberto a trocas e aprendizado contínuo!
-
----
-
 ## 📬 Contato
 
 - **LinkedIn:** [Clique aqui](https://www.linkedin.com/in/bianchinibruno)
-
----
-
-## 📑 Licença
-
-Este repositório é de uso pessoal e de estudo. Sinta-se à vontade para clonar, adaptar e contribuir.  
-🚀 **Quality is a mindset.**
-
----
-
-# ✨ Obrigado por visitar!
 
 ---
