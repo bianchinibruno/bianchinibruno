@@ -7,11 +7,11 @@ Sou **Bruno Bianchini**, **Senior Quality Assurance Engineer** com foco em autom
 
 ## 🚀 Sobre Mim
 
-- 🧪 **Mais de 5 anos de experiência** com QA Manual e Automatizado.
-- 🔍 Forte atuação com **Cypress**, **Postman**, **Gherkin**, **BDD**, **Cucumber**, **JavaScript**, entre outras ferramentas.
-- 📊 Experiência em estruturar pipelines de CI/CD com **GitHub Actions** e **Azure DevOps**.
-- 🔄 Mentalidade **shift-left**, participo de discovery, refinamentos e definição de critérios de aceitação.
-- 🏆 Foco em entregar qualidade como parte do **valor de negócio**, não apenas como etapa do desenvolvimento.
+- **Mais de 5 anos de experiência** com QA Manual e Automatizado.
+- Forte atuação com **Cypress**, **Postman**, **Gherkin**, **BDD**, **Cucumber**, **JavaScript**, entre outras ferramentas.
+- Experiência em estruturar pipelines de CI/CD com **GitHub Actions** e **Azure DevOps**.
+- Mentalidade **shift-left**, participo de discovery, refinamentos e definição de critérios de aceitação.
+- Foco em entregar qualidade como parte do **valor de negócio**, não apenas como etapa do desenvolvimento.
 
 ---
 
@@ -25,7 +25,6 @@ Sou **Bruno Bianchini**, **Senior Quality Assurance Engineer** com foco em autom
 | **CI/CD**              | GitHub Actions, Azure DevOps |
 | **BDD**                | Cucumber, Gherkin |
 | **Banco de Dados**     | SQL Server, PostgreSQL |
-| **Monitoramento**      | SonarQube, Grafana, NewRelic |
 
 ---
 
