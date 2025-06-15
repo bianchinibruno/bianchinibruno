@@ -1,7 +1,7 @@
-# 👨‍💻 Bruno Bianchini | QA Engineer
+# 👨‍💻 Bruno Bianchini | SR QA Engineer
 
 Bem-vindo ao meu espaço no GitHub!  
-Sou **Bruno Bianchini**, especialista em **Qualidade de Software** com foco em automação, estratégia de testes e melhoria contínua de processos. Aqui você encontrará exemplos práticos do meu trabalho como QA, frameworks de automação, pipelines CI/CD e boas práticas aplicadas em projetos reais.
+Sou **Bruno Bianchini**, **Senior Quality Assurance Engineer** com foco em automação, estratégia de testes e melhoria contínua de processos.
 
 ---
 
