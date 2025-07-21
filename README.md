@@ -29,22 +29,6 @@ Sou **Bruno Bianchini**, **Senior Quality Assurance Engineer** com foco em autom
 
 ---
 
-## 📂 Projetos em Destaque
-
-- **[Projeto QA E2E com Cypress](#)**  
-  - Framework modular para testes E2E com Cypress + Docker + GitHub Actions.
-  - Testes automatizados para fluxo crítico de compras online.
-
-- **[Automação de APIs com Postman](#)**  
-  - Suite de testes REST integrada ao pipeline CI/CD.
-  - Relatórios automatizados via Newman.
-
-- **[Load Test com K6](#)**  
-  - Simulação de carga de usuários reais.
-  - Métricas exportadas para Grafana.
-
----
-
 ## 🎯 O que você encontrará aqui
 
 - 📌 Exemplos de frameworks de testes prontos para uso.
