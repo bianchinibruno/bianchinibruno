@@ -2,17 +2,9 @@
 
 ### Engenheiro de Qualidade de Software Sênior · Automação E2E, API & Performance · IA aplicada a QA
 
-🇧🇷 Trabalho com qualidade de software desde 2019. Hoje cuido de qualidade em **fluxos críticos de
-receita** — cobrança e billing — onde falha não vira reclamação, vira prejuízo. Passei um ano e oito
-meses como **Engenheiro de Produto**, respondendo por roadmap e backlog, e voltei para qualidade
-sabendo ler risco de negócio — isso mudou os cenários que eu escrevo. Trabalho com automação E2E e de
-API, testes de performance, e agentes próprios de IA aplicados à escrita e manutenção de testes.
+Trabalho com Qualidade de Software desde 2019. O que me diferencia da maioria dos QAs sêniores é que, por quase 2 anos, tive a experiência de trabalhar como Engenheiro de Produto na Cox Automotive, respondendo por roadmap e backlog, experiência que inseri na minha rotina como Engenheiro de Qualidade Sênior da OmniChat, trabalhando diariamente com Product Manager, Product Designer e Tech Lead na construção de Discovery antes de implementar o Delivery junto aos Desenvolvedores.
 
-🇬🇧 Software Quality Engineer since 2019. Today I own quality in **revenue-critical flows** — billing
-and charging — where a failure isn't a complaint, it's a loss. I spent a year and a half as a
-**Product Engineer** owning roadmap and backlog, and came back to QA able to read business risk, which
-changed the scenarios I write. I work with E2E and API automation, performance testing, and custom AI
-agents applied to writing and maintaining tests.
+Tenho sólida experiência na qualidade de billing e manager. São os fluxos mais sensíveis do sistema e é onde me especializei ao longo dos anos para garantir que a empresa tenha sólidos fluxos de qualidade onde o maior prejuízo acontece. Na prática: automação E2E com Cypress e Playwright, testes de integração, testes de API com Postman e Bruno, validação direto no banco com SQL, alarmes de qualidade, e os painíes de qualidade que sustentam as métrica do time dentro do CI/CD.
 
 ---
 
